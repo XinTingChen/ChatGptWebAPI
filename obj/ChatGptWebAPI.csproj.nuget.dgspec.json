@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tommy\\Desktop\\ChatGptWebAPI\\ChatGptWebAPI.csproj": {}
+    "D:\\git\\ChatGptWebAPI\\ChatGptWebAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tommy\\Desktop\\ChatGptWebAPI\\ChatGptWebAPI.csproj": {
+    "D:\\git\\ChatGptWebAPI\\ChatGptWebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tommy\\Desktop\\ChatGptWebAPI\\ChatGptWebAPI.csproj",
+        "projectUniqueName": "D:\\git\\ChatGptWebAPI\\ChatGptWebAPI.csproj",
         "projectName": "ChatGptWebAPI",
-        "projectPath": "C:\\Users\\Tommy\\Desktop\\ChatGptWebAPI\\ChatGptWebAPI.csproj",
+        "projectPath": "D:\\git\\ChatGptWebAPI\\ChatGptWebAPI.csproj",
         "packagesPath": "C:\\Users\\Tommy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tommy\\Desktop\\ChatGptWebAPI\\obj\\",
+        "outputPath": "D:\\git\\ChatGptWebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

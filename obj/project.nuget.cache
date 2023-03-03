@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zUb1jGtsH1y5PPsIXi23fkdY1ZJTwiSCgoZrcsQfRuzyYHKIRyix0InDlKdz4aSpIf9Vm2CAfcJV13bk2k200g==",
+  "dgSpecHash": "B5kMR3S09KORDct3F1IkyraWH5fgo85uqU2o2n+NCtS3MTx/N0Ov63JA1VdnVeh/4/Vkd9mI8nazkOYDqgglPg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Tommy\\Desktop\\ChatGptWebAPI\\ChatGptWebAPI.csproj",
+  "projectFilePath": "D:\\git\\ChatGptWebAPI\\ChatGptWebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Tommy\\.nuget\\packages\\chatgptsharp\\1.0.4\\chatgptsharp.1.0.4.nupkg.sha512",
     "C:\\Users\\Tommy\\.nuget\\packages\\linebotsdk\\2.10.37\\linebotsdk.2.10.37.nupkg.sha512",
