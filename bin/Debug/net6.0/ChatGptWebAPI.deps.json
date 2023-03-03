@@ -8,7 +8,6 @@
     ".NETCoreApp,Version=v6.0": {
       "ChatGptWebAPI/1.0.0": {
         "dependencies": {
-          "ChatGPTSharp": "1.0.5",
           "LineBotSDK": "2.10.37",
           "Swashbuckle.AspNetCore": "6.5.0"
         },
@@ -16,22 +15,11 @@
           "ChatGptWebAPI.dll": {}
         }
       },
-      "ChatGPTSharp/1.0.5": {
-        "dependencies": {
-          "Newtonsoft.Json": "13.0.2"
-        },
-        "runtime": {
-          "lib/netstandard2.1/ChatGPTSharp.dll": {
-            "assemblyVersion": "1.0.5.0",
-            "fileVersion": "1.0.5.0"
-          }
-        }
-      },
       "LineBotSDK/2.10.37": {
         "dependencies": {
           "Microsoft.AspNetCore.Mvc.Core": "2.2.5",
           "Microsoft.CSharp": "4.7.0",
-          "Newtonsoft.Json": "13.0.2"
+          "Newtonsoft.Json": "12.0.2"
         },
         "runtime": {
           "lib/netstandard2.0/LineBotSDK.dll": {
@@ -191,7 +179,7 @@
       "Microsoft.Extensions.DependencyModel/2.1.0": {
         "dependencies": {
           "Microsoft.DotNet.PlatformAbstractions": "2.1.0",
-          "Newtonsoft.Json": "13.0.2",
+          "Newtonsoft.Json": "12.0.2",
           "System.Diagnostics.Debug": "4.0.11",
           "System.Dynamic.Runtime": "4.0.11",
           "System.Linq": "4.1.0"
@@ -247,11 +235,11 @@
           }
         }
       },
-      "Newtonsoft.Json/13.0.2": {
+      "Newtonsoft.Json/12.0.2": {
         "runtime": {
-          "lib/net6.0/Newtonsoft.Json.dll": {
-            "assemblyVersion": "13.0.0.0",
-            "fileVersion": "13.0.2.27524"
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.2.23222"
           }
         }
       },
@@ -548,13 +536,6 @@
       "serviceable": false,
       "sha512": ""
     },
-    "ChatGPTSharp/1.0.5": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-BKSgV0/WOuCyrC97JVoA8W6StCohPFzejvQC5q/Fp4TDJHeeVrDjvcO22i68YXbyqvjCGlfnkrKak8N0xP+akg==",
-      "path": "chatgptsharp/1.0.5",
-      "hashPath": "chatgptsharp.1.0.5.nupkg.sha512"
-    },
     "LineBotSDK/2.10.37": {
       "type": "package",
       "serviceable": true,
@@ -793,12 +774,12 @@
       "path": "microsoft.openapi/1.2.3",
       "hashPath": "microsoft.openapi.1.2.3.nupkg.sha512"
     },
-    "Newtonsoft.Json/13.0.2": {
+    "Newtonsoft.Json/12.0.2": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-R2pZ3B0UjeyHShm9vG+Tu0EBb2lC8b0dFzV9gVn50ofHXh9Smjk6kTn7A/FdAsC8B5cKib1OnGYOXxRBz5XQDg==",
-      "path": "newtonsoft.json/13.0.2",
-      "hashPath": "newtonsoft.json.13.0.2.nupkg.sha512"
+      "sha512": "sha512-rTK0s2EKlfHsQsH6Yx2smvcTCeyoDNgCW7FEYyV01drPlh2T243PR2DiDXqtC5N4GDm4Ma/lkxfW5a/4793vbA==",
+      "path": "newtonsoft.json/12.0.2",
+      "hashPath": "newtonsoft.json.12.0.2.nupkg.sha512"
     },
     "runtime.native.System/4.0.0": {
       "type": "package",

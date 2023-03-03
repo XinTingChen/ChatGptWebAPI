@@ -44,10 +44,6 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
-            "ChatGPTSharp": {
-              "target": "Package",
-              "version": "[1.0.5, )"
-            },
             "LineBotSDK": {
               "target": "Package",
               "version": "[2.10.37, )"

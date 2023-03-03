@@ -42,7 +42,6 @@ D:\git\ChatGptWebAPI\bin\Debug\net6.0\ChatGptWebAPI.deps.json
 D:\git\ChatGptWebAPI\bin\Debug\net6.0\ChatGptWebAPI.runtimeconfig.json
 D:\git\ChatGptWebAPI\bin\Debug\net6.0\ChatGptWebAPI.dll
 D:\git\ChatGptWebAPI\bin\Debug\net6.0\ChatGptWebAPI.pdb
-D:\git\ChatGptWebAPI\bin\Debug\net6.0\ChatGPTSharp.dll
 D:\git\ChatGptWebAPI\bin\Debug\net6.0\LineBotSDK.dll
 D:\git\ChatGptWebAPI\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
 D:\git\ChatGptWebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
