@@ -7,7 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="ChatGPTSharp" Version="1.0.4" />
+    <PackageReference Include="ChatGPTSharp" Version="1.0.5" />
     <PackageReference Include="LineBotSDK" Version="2.10.37" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
   </ItemGroup>

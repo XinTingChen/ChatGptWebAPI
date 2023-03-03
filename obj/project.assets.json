@@ -2,7 +2,7 @@
   "version": 3,
   "targets": {
     "net6.0": {
-      "ChatGPTSharp/1.0.4": {
+      "ChatGPTSharp/1.0.5": {
         "type": "package",
         "dependencies": {
           "Newtonsoft.Json": "13.0.2"
@@ -1169,15 +1169,15 @@
     }
   },
   "libraries": {
-    "ChatGPTSharp/1.0.4": {
-      "sha512": "qMagpUf+nUxW64M+KpALVz8NKahU3CDpphXwvNfzLm9yKLYDiBMOg3LqlwG0xcdIF/BDQhHNZt+eDZH0JGdSZg==",
+    "ChatGPTSharp/1.0.5": {
+      "sha512": "BKSgV0/WOuCyrC97JVoA8W6StCohPFzejvQC5q/Fp4TDJHeeVrDjvcO22i68YXbyqvjCGlfnkrKak8N0xP+akg==",
       "type": "package",
-      "path": "chatgptsharp/1.0.4",
+      "path": "chatgptsharp/1.0.5",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "README.md",
-        "chatgptsharp.1.0.4.nupkg.sha512",
+        "chatgptsharp.1.0.5.nupkg.sha512",
         "chatgptsharp.nuspec",
         "lib/netstandard2.1/ChatGPTSharp.dll"
       ]
@@ -3967,7 +3967,7 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "ChatGPTSharp >= 1.0.4",
+      "ChatGPTSharp >= 1.0.5",
       "LineBotSDK >= 2.10.37",
       "Swashbuckle.AspNetCore >= 6.5.0"
     ]
@@ -4018,7 +4018,7 @@
         "dependencies": {
           "ChatGPTSharp": {
             "target": "Package",
-            "version": "[1.0.4, )"
+            "version": "[1.0.5, )"
           },
           "LineBotSDK": {
             "target": "Package",

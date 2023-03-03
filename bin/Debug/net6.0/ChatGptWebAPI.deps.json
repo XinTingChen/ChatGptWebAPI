@@ -8,7 +8,7 @@
     ".NETCoreApp,Version=v6.0": {
       "ChatGptWebAPI/1.0.0": {
         "dependencies": {
-          "ChatGPTSharp": "1.0.4",
+          "ChatGPTSharp": "1.0.5",
           "LineBotSDK": "2.10.37",
           "Swashbuckle.AspNetCore": "6.5.0"
         },
@@ -16,14 +16,14 @@
           "ChatGptWebAPI.dll": {}
         }
       },
-      "ChatGPTSharp/1.0.4": {
+      "ChatGPTSharp/1.0.5": {
         "dependencies": {
           "Newtonsoft.Json": "13.0.2"
         },
         "runtime": {
           "lib/netstandard2.1/ChatGPTSharp.dll": {
-            "assemblyVersion": "1.0.4.0",
-            "fileVersion": "1.0.4.0"
+            "assemblyVersion": "1.0.5.0",
+            "fileVersion": "1.0.5.0"
           }
         }
       },
@@ -548,12 +548,12 @@
       "serviceable": false,
       "sha512": ""
     },
-    "ChatGPTSharp/1.0.4": {
+    "ChatGPTSharp/1.0.5": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-qMagpUf+nUxW64M+KpALVz8NKahU3CDpphXwvNfzLm9yKLYDiBMOg3LqlwG0xcdIF/BDQhHNZt+eDZH0JGdSZg==",
-      "path": "chatgptsharp/1.0.4",
-      "hashPath": "chatgptsharp.1.0.4.nupkg.sha512"
+      "sha512": "sha512-BKSgV0/WOuCyrC97JVoA8W6StCohPFzejvQC5q/Fp4TDJHeeVrDjvcO22i68YXbyqvjCGlfnkrKak8N0xP+akg==",
+      "path": "chatgptsharp/1.0.5",
+      "hashPath": "chatgptsharp.1.0.5.nupkg.sha512"
     },
     "LineBotSDK/2.10.37": {
       "type": "package",
